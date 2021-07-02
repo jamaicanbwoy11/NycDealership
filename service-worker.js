@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/NycDealership/precache-manifest.b43fbea55df811efaf2b2023bc64fbde.js"
+  "/NycDealership/precache-manifest.686510a03c35b6543254584a22a21f28.js"
 );
 
 self.addEventListener('message', (event) => {

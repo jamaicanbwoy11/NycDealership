@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/NycDealership/static/css/main.39e03b4a.chunk.css",
-    "main.js": "/NycDealership/static/js/main.94cd9fe5.chunk.js",
-    "main.js.map": "/NycDealership/static/js/main.94cd9fe5.chunk.js.map",
+    "main.js": "/NycDealership/static/js/main.70adde2e.chunk.js",
+    "main.js.map": "/NycDealership/static/js/main.70adde2e.chunk.js.map",
     "runtime-main.js": "/NycDealership/static/js/runtime-main.703bc2b6.js",
     "runtime-main.js.map": "/NycDealership/static/js/runtime-main.703bc2b6.js.map",
     "static/js/2.ad71a128.chunk.js": "/NycDealership/static/js/2.ad71a128.chunk.js",
     "static/js/2.ad71a128.chunk.js.map": "/NycDealership/static/js/2.ad71a128.chunk.js.map",
     "index.html": "/NycDealership/index.html",
-    "precache-manifest.b43fbea55df811efaf2b2023bc64fbde.js": "/NycDealership/precache-manifest.b43fbea55df811efaf2b2023bc64fbde.js",
+    "precache-manifest.686510a03c35b6543254584a22a21f28.js": "/NycDealership/precache-manifest.686510a03c35b6543254584a22a21f28.js",
     "service-worker.js": "/NycDealership/service-worker.js",
     "static/css/main.39e03b4a.chunk.css.map": "/NycDealership/static/css/main.39e03b4a.chunk.css.map",
     "static/media/Styles.css": "/NycDealership/static/media/car-2.7aac585b.jpg",
@@ -71,6 +71,6 @@
     "static/js/runtime-main.703bc2b6.js",
     "static/js/2.ad71a128.chunk.js",
     "static/css/main.39e03b4a.chunk.css",
-    "static/js/main.94cd9fe5.chunk.js"
+    "static/js/main.70adde2e.chunk.js"
   ]
 }

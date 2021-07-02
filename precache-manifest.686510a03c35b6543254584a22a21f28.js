@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f83d802ccde66596dd8818bf3ca92e1f",
+    "revision": "f52cbecb8334d38bf9044ab9d638f239",
     "url": "/NycDealership/index.html"
   },
   {
-    "revision": "681e01676b34e2565908",
+    "revision": "bfdbc11a18cfe2a0eb95",
     "url": "/NycDealership/static/css/main.39e03b4a.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/NycDealership/static/js/2.ad71a128.chunk.js"
   },
   {
-    "revision": "681e01676b34e2565908",
-    "url": "/NycDealership/static/js/main.94cd9fe5.chunk.js"
+    "revision": "bfdbc11a18cfe2a0eb95",
+    "url": "/NycDealership/static/js/main.70adde2e.chunk.js"
   },
   {
     "revision": "e8e1db9c3733e6962f87",
