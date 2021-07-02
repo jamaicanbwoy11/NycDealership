@@ -6,7 +6,7 @@ import Cars from './Components/Cars';
 import SingleCar from './Components/SingleCar';
 import ErrorPage from './Components/ErrorPage';
 
-import { Route, Switch } from 'react-router-dom';
+import { HashRouter as Switch, Route } from "react-router-dom";
 
 
 
@@ -18,7 +18,7 @@ function App() {
 
       <Switch>
 
-        <Route exact path='/dealership' component={Home} />
+        <Route exact path='/' component={Home} />
         <Route exact path='/cars' component={Cars} />
         <Route exact path='/car/:slug' component={SingleCar} />
         <Route component={ErrorPage} />
